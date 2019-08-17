@@ -1,3 +1,7 @@
+For playing with and testing Chris Holdgraf's Jupyter Books Project...
+
+----
+
 # <img src="content/images/logo/logo.png" width=40 /> Jupyter Book
 
 
